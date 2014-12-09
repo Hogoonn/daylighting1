@@ -2,4 +2,6 @@ site_name: Daylighting 1
 pages:
 - [index.md, Home]
 - [about.md, About]
+- [Introduction.md, 소개]
+- [designdaylighting.md, 빛 고르기]
 theme: readthedocs
